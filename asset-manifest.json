@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/gamesite/static/css/main.7b7704d0.chunk.css",
+    "main.js": "/gamesite/static/js/main.49f99566.chunk.js",
+    "main.js.map": "/gamesite/static/js/main.49f99566.chunk.js.map",
+    "runtime-main.js": "/gamesite/static/js/runtime-main.49e9d2cf.js",
+    "runtime-main.js.map": "/gamesite/static/js/runtime-main.49e9d2cf.js.map",
+    "static/js/2.4f7c8eef.chunk.js": "/gamesite/static/js/2.4f7c8eef.chunk.js",
+    "static/js/2.4f7c8eef.chunk.js.map": "/gamesite/static/js/2.4f7c8eef.chunk.js.map",
+    "index.html": "/gamesite/index.html",
+    "precache-manifest.2e44c75787d740c191981ce45215313e.js": "/gamesite/precache-manifest.2e44c75787d740c191981ce45215313e.js",
+    "service-worker.js": "/gamesite/service-worker.js",
+    "static/css/main.7b7704d0.chunk.css.map": "/gamesite/static/css/main.7b7704d0.chunk.css.map",
+    "static/js/2.4f7c8eef.chunk.js.LICENSE.txt": "/gamesite/static/js/2.4f7c8eef.chunk.js.LICENSE.txt",
+    "static/js/main.49f99566.chunk.js.LICENSE.txt": "/gamesite/static/js/main.49f99566.chunk.js.LICENSE.txt",
+    "static/media/assassinsmark.webp": "/gamesite/static/media/assassinsmark.de1a6e02.webp",
+    "static/media/beamblade.webp": "/gamesite/static/media/beamblade.1dcc4698.webp",
+    "static/media/cryvalhalla.webp": "/gamesite/static/media/cryvalhalla.c094b80b.webp",
+    "static/media/darkflare.webp": "/gamesite/static/media/darkflare.357f7d3d.webp",
+    "static/media/deathstar.webp": "/gamesite/static/media/deathstar.678aa8d5.webp",
+    "static/media/finalattack.webp": "/gamesite/static/media/finalattack.2973141a.webp",
+    "static/media/puncture.webp": "/gamesite/static/media/puncture.c43ccccf.webp",
+    "static/media/quadstar.webp": "/gamesite/static/media/quadstar.30b89798.webp",
+    "static/media/ragingblow.webp": "/gamesite/static/media/ragingblow.891366e2.webp",
+    "static/media/risingrage.webp": "/gamesite/static/media/risingrage.004a2007.webp",
+    "static/media/showdown.webp": "/gamesite/static/media/showdown.fbfa411a.webp",
+    "static/media/suddenraid.webp": "/gamesite/static/media/suddenraid.986eab49.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.49e9d2cf.js",
+    "static/js/2.4f7c8eef.chunk.js",
+    "static/css/main.7b7704d0.chunk.css",
+    "static/js/main.49f99566.chunk.js"
+  ]
+}
